@@ -1,0 +1,10 @@
+{
+  "description": "Create a modern, responsive B2B website for design and development agencies featuring a hero section, testimonials, and a contact form with dark mode.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
